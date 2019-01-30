@@ -1,5 +1,15 @@
-# Installation
+# Задание
 
-Clone this repo and it should run locally. 
+1.	Задание сверстать страницу с карточками превью статей.  Макет лежит в папке Eldorado_task1.  Страница должна быть адаптивной, на разрешении экрана меньше 640px карточки должны выстраиваться по одной в ряду(блочно).  Задача показать навыки адаптивной верстки, названия классов использовать в соответствии Методология БЭМ(не обязательно, но если сделаешь будет круто).
 
-For development you must have npm and Gulp installed globally on your machine. `cd` into the project, run `npm install` and then run `gulp dev` which will open up a preview of the template in your default browser, watch for changes to core template files, and live reload the browser when changes are saved. You can view the `gulpfile.js` to see which tasks are included with the dev environment.
+2.	Сверстать форму отправки данных.  Макет лежит в папке Eldorado_task2.  Сделать валидацию данных (проверка email, проверка на минимальное количество знаков (1 знак)), для валидации можно использовать как нативный JavaScript, так и jQuery. При нажатии кнопки “отправить” выводить данные в консоль. 
+
+
+
+# Описание
+
+
+Тестовое задание вертска для магазина Эльдорадо 
+
+index.html - блок с карточками
+form.html  - блок с валидацией формы
